@@ -34,7 +34,7 @@ A large-scale collection of user event logs with features such as:
 - device_type  
 - location  
 
-Dataset link: *(Insert Kaggle link here)*
+Dataset link: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
 ---
 
